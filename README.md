@@ -1,3 +1,15 @@
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3V3NXYweTB5c3hzbXZpcmE4dzA3dzc4NDQybXp5MmNkejlzZXoxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nHaF5cJanabVk86MLJ/giphy.gif"  />
+</div>
+
+###
+
 <h1 align="center">Hi 👋, I'm ALVARO GABINO CASAS RAMIREZ</h1>
 <h3 align="center">A passionate developer from México</h3>
 
